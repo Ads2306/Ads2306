@@ -33,16 +33,6 @@ I am a dedicated data professional focused on extracting clarity from complex da
 
 ---
 
-### 📈 GitHub Metrics
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ads2306&show_icons=true&theme=tokyonight&hide_border=false" alt="Adam's GitHub stats" height="170px" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ads2306&layout=compact&theme=tokyonight&hide_border=false" alt="Adam's Top Languages" height="170px" />
-
 </div>
 
 ---
