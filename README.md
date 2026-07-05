@@ -46,6 +46,16 @@ I am a dedicated data professional focused on extracting clarity from complex da
 
 ---
 
+### 💡 Featured Project
+
+#### 🥑 [Macro and Meal Planning Engine](https://github.com/Ads2306/Macro-and-Meal-Planning-Engine)
+A data-driven nutrition engine designed to automate menu generation and balance structural macronutrient profiles. 
+- **Current Progress:** Built a functional, python-scripted single-day segmented nutrition generator.
+- **Next Milestone:** Scaling the processing logic from a 1-day system to a comprehensive 7-day cyclical model.
+- **Analytical Additions:** Developing a tracking visual matrix to display variance over time, tracking changes in weight relative to ongoing baseline caloric shifts.
+
+---
+
 </div>
 
 ---
