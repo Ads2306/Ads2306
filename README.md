@@ -13,7 +13,7 @@
 I am a dedicated data professional focused on extracting clarity from complex datasets. With a strong foundation in quantitative methodology and data workflows, I specialize in transforming raw information into interactive visualizations and structural metrics that drive operational decisions.
 
 - 🎓 **Credentials:** CompTIA Data+ Certified | Foundation Certificate in Business Analysis | BCS Tech10 Data Analysis Diploma
-- 🐍 **Current Projects:** Building Python automation scripts for data cleanup and scheduling optimization pipelines.
+- 🚀 **In Development:** Scaling an automated nutrition pipeline from a single-day generation structure into a fully dynamic 7-day scheduling system.
 - 🎯 **Career Focus:** Performance Analyst, Junior Risk Analyst, and Data Analyst frameworks.
 
 ---
