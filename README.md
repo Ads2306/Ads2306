@@ -13,7 +13,7 @@
 I am a dedicated data professional focused on extracting clarity from complex datasets. With a strong foundation in quantitative methodology and data workflows, I specialize in transforming raw information into interactive visualizations and structural metrics that drive operational decisions.
 
 -  **Credentials:** CompTIA Data+ Certified | Foundation Certificate in Business Analysis | BCS Tech10 Data Analysis Diploma
--  **In Development:** Scaling an automated nutrition pipeline from a single-day generation structure into a fully dynamic 7-day scheduling system.
+-  **In Development:** Implementing grocery list aggregator to the automated nutrition pipeline with a fully dynamic 7-day scheduling system.
 -  **Career Focus:** Performance Analyst, Junior Risk Analyst, and Data Analyst frameworks.
 
 ---
@@ -51,7 +51,7 @@ I am a dedicated data professional focused on extracting clarity from complex da
 #### [Macro and Meal Planning Engine](https://github.com/Ads2306/Macro-and-Meal-Planning-Engine)
 A data-driven nutrition engine designed to automate menu generation and balance structural macronutrient profiles. 
 - **Current Progress:** Built a functional, python-scripted weekly nutrition generator.
-- **Next Milestone:** TBA
+- **Next Milestone:** Grocery List Aggregator (consolidating weekly meal output into a single shopping list with total budget tracking).
 - **Analytical Additions:** Developing a tracking visual matrix to display variance over time, tracking changes in weight relative to ongoing baseline caloric shifts.
 
 ---
