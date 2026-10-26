@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Adam Lau
-### Aspiring Data Analyst | Analytical Problem Solver
+### Aspiring Customer & Behavioural Data Analyst| Analytical Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-lau-84b596392/)
 
