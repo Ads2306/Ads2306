@@ -14,7 +14,7 @@ I am a dedicated data professional focused on extracting clarity from complex da
 
 -  **Credentials:** CompTIA Data+ Certified | Foundation Certificate in Business Analysis | BCS Tech10 Data Analysis Diploma
 -  **In Development:** Implementing grocery list aggregator to the automated nutrition pipeline with a fully dynamic 7-day scheduling system.
--  **Career Focus:** Performance Analyst, Junior Risk Analyst, and Data Analyst frameworks.
+-  **Career Focus:** Performance Analyst, Junior Customer Insights Analyst, and Data Analyst frameworks.
 
 ---
 
